@@ -1,0 +1,42 @@
+body{
+    text-align:center;
+    
+}
+.menu{
+    position:fixed;
+    background:yellow;
+    width:100%;
+    margin-top:0px;
+    top:0px;
+    z-index:10;
+    
+}
+a{
+    text-decoration:none;
+    color:deeppink;
+    text-shadow:2px 2px gainsboro; 
+    
+}
+.links{
+display:inline;
+    padding-left:25px;
+    padding-right:25px;
+    font-family:fantasy;
+    font-size:30px;
+    
+    
+}
+.links:hover{
+    font-size:35px;
+    text-decoration:underline;
+    
+}
+#apps{
+    background-color:aqua;
+}
+#Chatbot{
+    background-color:chartreuse;
+}
+#Games{
+    background-color:deeppink;
+}
